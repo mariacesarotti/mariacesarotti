@@ -1,19 +1,17 @@
 # ✦ Maria Cesarotti
 
-> Desenvolvimento de software com lógica, clareza e um pouco menos de caos.
+🎬 **Do audiovisual para o código**  
+Trabalhei por mais de 10 anos com audiovisual, sempre envolvida com fluxos complexos, organização de processos e solução de imprevistos.
 
----
+Com o tempo, percebi que o que mais me interessava era justamente essa parte lógica — e foi isso que me levou à programação.
 
-🎬 **Do audiovisual ao código**  
-Depois de mais de 10 anos trabalhando com audiovisual, percebi que o que mais me interessava ali não era só a parte criativa, mas a lógica por trás dos fluxos, a organização dos processos e a busca constante por soluções — especialmente quando tudo parecia dar errado.
-
-Foi isso que me levou ao desenvolvimento de software.  
-Hoje, estou focada em aprender e construir com **JavaScript, TypeScript, C e tecnologias próximas**, testando ideias na prática e buscando resolver problemas de forma direta, clara e, sempre que possível, com um pouco menos de caos.
+Hoje, me dedico a aprender e desenvolver com **JavaScript, TypeScript, C e tecnologias relacionadas**, sempre com foco em testar ideias na prática e construir soluções eficientes e bem estruturadas.
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=fff)
@@ -57,9 +55,9 @@ Hoje, estou focada em aprender e construir com **JavaScript, TypeScript, C e tec
 
 ## ✉️ Contato
 
-- 📫 Email: [maria.cesarotti@gmail.com](mailto:maria.cesarotti@gmail.com)  
+- 📫 Email: [mariacesarotti@gmail.com](mailto:mariacesarotti@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mariacesarotti](https://linkedin.com/in/mariacesarotti)
 
 ---
 
-> No fim das contas, o que me move é entender um problema e construir algo que resolva — de forma simples, bem pensada e funcional.
+> Meu foco é transformar problemas em soluções práticas, com estrutura, lógica e código limpo.
