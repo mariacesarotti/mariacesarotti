@@ -1,56 +1,74 @@
 # ✦ Maria Cesarotti
 
-🎬 **Do audiovisual para o código**  
-Trabalhei por mais de 10 anos com audiovisual, sempre envolvida com fluxos complexos, organização de processos e solução de imprevistos.
+**Software Developer | Backend • APIs • Data**
 
-Com o tempo, percebi que o que mais me interessava era justamente essa parte lógica — e foi isso que me levou à programação.
+Desenvolvedora de software com foco em **backend**, integração de sistemas e dados. Atuo com **Java, Clojure, JavaScript/TypeScript**, trabalhando com **APIs REST**, **bancos relacionais e NoSQL**, **mensageria** e **sistemas em produção**.
 
-Hoje, me dedico a aprender e desenvolver com **JavaScript, TypeScript, C e tecnologias relacionadas**, sempre com foco em testar ideias na prática e construir soluções eficientes e bem estruturadas.
+Tenho background em ambientes complexos e orientados a processo, o que se traduziu naturalmente em interesse por **engenharia de software**, **automação**, **arquitetura** e resolução de problemas reais.
 
----
-
-## ⚙️ Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=fff)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+Atualmente trabalho como desenvolvedora, lidando com **código legado**, **integrações**, **eventos assíncronos** e **decisões técnicas em produção**.
 
 ---
 
-## 🧩 Sobre mim
+## ⚙️ Tech Stack
 
-- 💻 Desenvolvedora em transição, com projetos completos, banco de dados funcional e backend testado.
-- 📚 MBA em Engenharia de Dados (PUC-Minas), AWS re/Start, Dio, Kenzie Academy e prática contínua com projetos próprios.
-- 🔁 Experiência com automações (Python), organização de times e processos criativos — agora aplicadas ao desenvolvimento de software.
-- 🌍 Idiomas: Português (nativo), Inglês e Espanhol (fluentes), Francês (intermediário).
+### Backend & Data
+- Java • Clojure • JavaScript • TypeScript  
+- APIs REST • SQL • NoSQL  
+- PostgreSQL • Cassandra  
+- Kafka • Kafka Streams  
+- Event-Driven Architecture  
+- Data Modeling • Database Migrations  
+
+### Infra & Operação
+- Docker  
+- Git • GitHub  
+- CI/CD  
+- Linux / macOS  
+- Logging • Error Handling  
+- Code Review • Legacy Code  
+
+### Frontend (apoio)
+- React  
+- HTML • CSS  
+- State Management  
+- Re-frame  
+
+---
+
+## 🧠 Sobre mim
+
+- Desenvolvimento backend com foco em **dados, integrações e sistemas em produção**
+- Experiência prática com **APIs**, **mensageria** e **processamento assíncrono**
+- Vivência com **debug**, **refatoração** e **manutenção de código legado**
+- Background em automação de processos e ambientes operacionais
+- Idiomas: Português (nativo), Inglês (avançado), Espanhol (intermediário), Francês (intermediário)
 
 ---
 
 ## 📌 Repositórios em Destaque
 
-- [`cat_agenda`](https://github.com/mariacesarotti/cat_agenda)  
-  App full-stack que gera e exibe um calendário automatizado com todos os cuidados recorrentes de gatos: comida, areia, vacina, medicamentos e manutenção.  
-  _Stack: React · Express · TypeScript · PostgreSQL_
+### [`cat_agenda`](https://github.com/mariacesarotti/cat_agenda)
+Aplicação full-stack para geração de calendários dinâmicos, com regras de negócio, persistência de dados e APIs REST.  
+Projeto focado em **modelagem**, **organização de domínio** e **evolução incremental**.
 
-- [`api-kung-fu-db`](https://github.com/mariacesarotti/api-kung-fu-db)  
-  API com banco de dados para estudo de posturas do estilo Choy Lay Fut, com organização por faixas, descrições e integração com front-end interativo.  
-  _Stack: Node.js · Express · JavaScript · PostgreSQL_
+_Stack: React · Express · TypeScript · PostgreSQL_
 
-- [`api-biblioteca`](https://github.com/mariacesarotti/api-biblioteca)  
-  API REST para gerenciamento de biblioteca com CRUD completo e estrutura relacional.  
-  _Stack: Node.js · Express · JavaScript_
+---
+
+### [`api-kung-fu-db`](https://github.com/mariacesarotti/api-kung-fu-db)
+API REST com estrutura relacional, organização de entidades e integração com front-end.  
+Foco em **CRUD**, **consistência de dados** e **contratos de API**.
+
+_Stack: Node.js · Express · JavaScript · PostgreSQL_
+
+---
+
+### [`api-biblioteca`](https://github.com/mariacesarotti/api-biblioteca)
+API REST para gerenciamento de biblioteca, com operações CRUD e modelagem relacional.  
+Projeto voltado à **estruturação de backend** e **boas práticas de API**.
+
+_Stack: Node.js · Express · JavaScript_
 
 ---
 
@@ -60,5 +78,3 @@ Hoje, me dedico a aprender e desenvolver com **JavaScript, TypeScript, C e tecno
 - 💼 LinkedIn: [linkedin.com/in/mariacesarotti](https://linkedin.com/in/mariacesarotti)
 
 ---
-
-> Meu foco é transformar problemas em soluções práticas, com estrutura, lógica e código limpo.
