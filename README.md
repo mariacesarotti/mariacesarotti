@@ -1,80 +1,57 @@
-# ✦ Maria Cesarotti
+# Maria Cesarotti
 
-**Software Developer | Backend • APIs • Data**
+**Software Developer · Backend · Java · Clojure · Event-Driven Systems**
 
-Desenvolvedora de software com foco em **backend**, integração de sistemas e dados. Atuo com **Java, Clojure, JavaScript/TypeScript**, trabalhando com **APIs REST**, **bancos relacionais e NoSQL**, **mensageria** e **sistemas em produção**.
+Desenvolvedora backend com experiência em infraestrutura do mercado financeiro. Trabalhei na **CSD BR**, central depositária de títulos, em sistemas em produção com **Clojure** e **Java**, mensageria com **Kafka**, eventos assíncronos, integrações entre sistemas e manutenção de código legado.
 
-Tenho background em ambientes complexos e orientados a processo, o que se traduziu naturalmente em interesse por **engenharia de software**, **automação**, **arquitetura** e resolução de problemas reais.
+Antes do software, passei quase dez anos na pós-produção audiovisual como colorista, supervisora de pós e líder técnica. É de lá que vem meu jeito de trabalhar: pipelines bem definidos, atenção a detalhe, prazos reais e responsabilidade pelo que vai para o ar.
 
-Atualmente trabalho como desenvolvedora, lidando com **código legado**, **integrações**, **eventos assíncronos** e **decisões técnicas em produção**.
+Hoje estudo **Análise e Desenvolvimento de Sistemas** no SENAC e faço parte da **42 São Paulo**. Nos projetos pessoais, pratico system design, decisões de arquitetura documentadas em ADRs e desenvolvimento assistido por IA com método.
 
----
-
-## ⚙️ Tech Stack
-
-### Backend & Data
-- Java • Clojure • JavaScript • TypeScript  
-- APIs REST • SQL • NoSQL  
-- PostgreSQL • Cassandra  
-- Kafka • Kafka Streams  
-- Event-Driven Architecture  
-- Data Modeling • Database Migrations  
-
-### Infra & Operação
-- Docker  
-- Git • GitHub  
-- CI/CD  
-- Linux / macOS  
-- Logging • Error Handling  
-- Code Review • Legacy Code  
-
-### Frontend (apoio)
-- React  
-- HTML • CSS  
-- State Management  
-- Re-frame  
+**Aberta a novas oportunidades** em backend.
 
 ---
 
-## 🧠 Sobre mim
+## Tech Stack
 
-- Desenvolvimento backend com foco em **dados, integrações e sistemas em produção**
-- Experiência prática com **APIs**, **mensageria** e **processamento assíncrono**
-- Vivência com **debug**, **refatoração** e **manutenção de código legado**
-- Background em automação de processos e ambientes operacionais
-- Idiomas: Português (nativo), Inglês (avançado), Espanhol (intermediário), Francês (intermediário)
-
----
-
-## 📌 Repositórios em Destaque
-
-### [`cat_agenda`](https://github.com/mariacesarotti/cat_agenda)
-Aplicação full-stack para geração de calendários dinâmicos, com regras de negócio, persistência de dados e APIs REST.  
-Projeto focado em **modelagem**, **organização de domínio** e **evolução incremental**.
-
-_Stack: React · Express · TypeScript · PostgreSQL_
+**Linguagens:** Java · Clojure · TypeScript · JavaScript · Python
+**Backend:** Spring Boot · Spring Security · Node.js · Express · APIs REST · OAuth2
+**Dados:** PostgreSQL · Cassandra · SQL · Flyway · modelagem de dados · migrations
+**Mensageria:** Kafka · Kafka Streams · arquitetura orientada a eventos
+**Qualidade:** JUnit · Mockito · testes de integração · code review · mypy · Ruff
+**Infra:** Docker · Git · GitHub Actions · CI/CD · Linux · macOS
+**Frontend:** React · Re-frame · Three.js · Sass
+**IA no desenvolvimento:** Claude Code · subagentes · skills customizadas
 
 ---
 
-### [`api-kung-fu-db`](https://github.com/mariacesarotti/api-kung-fu-db)
-API REST com estrutura relacional, organização de entidades e integração com front-end.  
-Foco em **CRUD**, **consistência de dados** e **contratos de API**.
+## Projetos em destaque
 
-_Stack: Node.js · Express · JavaScript · PostgreSQL_
+### [CatAgenda](https://github.com/mariacesarotti/cat-agenda-2.0)
+Gerenciador de cuidados para gatos: histórico de saúde, motor de regras que calcula vacinas e consultas vencendo, calendário, lista de compras e sincronização com o Google Calendar via OAuth2, com tokens criptografados em repouso. 147 testes unitários.
+
+Construído com um **time Scrum de agentes de IA** no Claude Code (PO, Tech Lead, Dev, Scrum Master). Toda decisão de arquitetura foi minha, escolhida entre alternativas com trade-offs e registrada em **9 ADRs**.
+
+`Java 21` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `JUnit` `Mockito`
+
+### [Tailwater](https://github.com/mariacesarotti/tailwater)
+Ritual de aterramento em 3D que roda no navegador, com privacidade por design: nada que a pessoa escreve sai do dispositivo. O fluxo é uma máquina de estados e a argila é esculpida em tempo real com ruído procedural.
+
+Os assets de áudio são masterizados por uma **CLI em Python** que eu escrevi (trim, normalização de loudness em LUFS, loops sem emenda, encoding), com configuração declarativa, nomes de arquivo por hash de conteúdo e manifest de build. Minha experiência de pós-produção virando código.
+
+`Three.js` `XState` `Vite` `Vitest` `Python` `Typer` `Pydantic` `GitHub Actions`
+
+### [API Kung Fu](https://github.com/mariacesarotti/api-kung-fu-db)
+Catálogo interativo de posturas de Kung Fu por faixa e kati. API REST em camadas (rotas, controllers, services, repositories) com CRUD, filtros e validação de entrada, coberta por testes de integração HTTP. Frontend em React com deploy contínuo no GitHub Pages.
+
+`TypeScript` `Node.js` `Express` `React` `Sass` `GitHub Actions`
 
 ---
 
-### [`api-biblioteca`](https://github.com/mariacesarotti/api-biblioteca)
-API REST para gerenciamento de biblioteca, com operações CRUD e modelagem relacional.  
-Projeto voltado à **estruturação de backend** e **boas práticas de API**.
+## Idiomas
 
-_Stack: Node.js · Express · JavaScript_
+Português (nativo) · Inglês (avançado) · Espanhol (intermediário) · Francês (intermediário)
 
----
+## Contato
 
-## ✉️ Contato
-
-- 📫 Email: [mariacesarotti@gmail.com](mailto:mariacesarotti@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mariacesarotti](https://linkedin.com/in/mariacesarotti)
-
----
+[mariacesarotti@gmail.com](mailto:mariacesarotti@gmail.com) · [LinkedIn](https://linkedin.com/in/mariacesarotti)
